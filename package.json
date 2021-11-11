@@ -1,0 +1,18 @@
+{
+  "name": "typescript-esm-demo",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "build/index.js",
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "ip": "^1.1.5",
+    "nullthrows": "^1.1.1"
+  },
+  "devDependencies": {
+    "@types/ip": "^1.1.0",
+    "typescript": "^4.6.0-dev.20211110"
+  }
+}

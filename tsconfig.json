@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "lib": ["es2021"],
+    "module": "nodenext",
+    "outDir": "esm",
+    "skipLibCheck": true,
+    "target": "es2021"
+  }
+}
